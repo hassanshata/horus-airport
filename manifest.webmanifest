@@ -1,0 +1,16 @@
+{
+  "name": "HORUS — Alexandria Airport Assistant",
+  "short_name": "HORUS",
+  "description": "Alexandria Airport assistant kiosk: flights, map, check-in, Guide chatbot and more, in English and Arabic.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#05070D",
+  "theme_color": "#05070D",
+  "lang": "en",
+  "icons": [
+    { "src": "favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
